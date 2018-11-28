@@ -1,2 +1,3 @@
 # hello-world
-In class example repository. 
+
+This is a changed file. 
